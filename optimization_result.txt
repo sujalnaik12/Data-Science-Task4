@@ -1,0 +1,2 @@
+Optimal Product A: 0.0
+Optimal Product B: 50.0
